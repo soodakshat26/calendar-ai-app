@@ -10,7 +10,7 @@ import { adminDb } from "../../../lib/admin";
 
 const redirectURI =
   process.env.NODE_ENV === "production"
-    ? "https://your-production-url.com/api/auth/google"
+    ? "https://calendar-ai-app-lyart.vercel.app/api/auth/google/"
     : "http://localhost:3000/api/auth/google";
 
 const oauth2Client = new google.auth.OAuth2(
