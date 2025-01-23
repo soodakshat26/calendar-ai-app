@@ -45,7 +45,7 @@ The project is built as part of the **Whitecarrot Intern - 2025** assignment, fo
 
 1. **Google SSO**:  
    - Sign in with any Google account for quick access.  
-   - Securely fetch your calendar events.
+   - Securely fetch your calendar events  .
 
 2. **Calendar Event Listing**:  
    - Lists your Google Calendar events in a clean table.  
