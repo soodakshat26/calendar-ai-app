@@ -180,10 +180,10 @@ my-app/
 2. **Link to Vercel**:
    - Go to [Vercel](https://vercel.com/) → “New Project” → Import from GitHub.  
    - Add the same environment variables in **Vercel** project settings.  
-   - Deploy → gets a domain like `https://my-app.vercel.app`.
+   - Deploy → gets a domain like `https://calendar-ai-app-lyart.vercel.app/`.
 
 3. **Google Cloud Console**:
-   - Add `https://my-app.vercel.app/api/auth/google` as an Authorized Redirect URI.  
+   - Add `https://calendar-ai-app-lyart.vercel.app/api/auth/google` as an Authorized Redirect URI.  
    - Publish your OAuth consent screen if needed for an external audience.
 
 ---
