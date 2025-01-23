@@ -1,0 +1,22 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Next.js
+.next/
+out/
+.next/cache/
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
